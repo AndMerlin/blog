@@ -1,0 +1,22 @@
+# Jekyll site settings
+title: Andriy Nikitin's Blog
+description: >-
+  Personal blog covering technology, reflections, and insights.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io" # the base hostname & protocol for your site
+twitter_username: your-twitter-handle
+github_username: your-github-username
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files/folders
+exclude:
+  - .gitignore
+  - README.md
+  - Gemfile
+  - Gemfile.lock
