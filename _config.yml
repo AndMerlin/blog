@@ -2,10 +2,9 @@
 title: Andriy Nikitin's Blog
 description: >-
   Personal blog covering technology, reflections, and insights.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yourusername.github.io" # the base hostname & protocol for your site
-twitter_username: your-twitter-handle
-github_username: your-github-username
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://andmerlin.github.io" # the base hostname & protocol for your site
+github_username: andmerlin
 
 # Build settings
 markdown: kramdown
