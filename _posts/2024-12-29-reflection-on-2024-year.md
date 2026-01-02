@@ -1,8 +1,9 @@
 ---
+layout: post
 title: "Reflection on my 2024 Year"
 date: 2024-12-29
-original_url: "https://www.linkedin.com/pulse/reflection-my-2024-year-andriy-nikitin-id8pe/"
-# tags: ["security", "aws", "certifications"]
+categories: [reflection, certifications, learning]
+tags: [security, AWS, kubernetes, cybersecurity, personal-development]
 ---
 
 Today, I'd like to reflect on what I've done during the 2024 year and share my gratitude to those who helped me.
