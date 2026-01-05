@@ -1,8 +1,15 @@
+---
+layout: post
+title: "Reflection on 2024: Expanding Horizons in Security and Machine Learning"
+date: 2024-12-29
+categories: [reflection, aws, certifications, learning, cybersecurity]
+---
+
 Today, I'd like to reflect on what I've done during the 2024 year and share my gratitude to those who helped me.
 
-The start of 2024 was a whirlwind of activity for me. I enrolled in SET University, invested in the CompTIA Security+(Course+Exam), and seized the opportunity to join EC-Council C\|CT for a nominal fee. Additionally, I planned to renew my CKS Cert.
+**The start of 2024 was a whirlwind of activity for me. I enrolled in SET University, invested in the CompTIA Security+(Course+Exam), and seized the opportunity to join EC-Council C\|CT for a nominal fee. Additionally, I planned to renew my CKS Cert.**
 
-Let's begin in order.
+# Let's begin in order.
 
 During four months in SET University, I had a fantastic opportunity to work with many excellent teachers and great students. The program "Information and Cybersecurity Management" is interesting and structured and leaves you with a good background for further improvements. By the way, I forgot to mention that following the free advertisement, I enrolled in the Cisco Ethical Hacker course (free of charge). I will blame myself many times later on to place too many irons in a fire. In my free time, I was learning the Cisco course. And not only. This was a time when I was preparing for CompTIA Security+.
 
@@ -22,7 +29,7 @@ Remember I said my Certified Kubernetes Security Specialist (CKS) expired. Here,
 
 EC-Council C\|CT (Certified Cybersecurity Technician) - I'd like to highlight the amount of information to learn in this prep course; it is huge, guys, huge, and it requires a lot of reading and watching. This one stands out from others I passed. I want to underline the labs. They should be completed if you want to pass the exam. The exam itself is a combination of theory and practice; in a short time, you have to show your knowledge and solve practical labs. The weight for Labs is higher than for theory. So you must be ready to make your hands dirty in a virtual (Windows / Linux environment). Do not expect to pass it with only theory. EC-Council said this is entry-level for Cyber Security. This is a very SOLID base for this. I blamed myself many times for not dedicating more time to preparation. I was in a rush as the exam should be done before a specific date. So I cram for a test, pulled all-nighters, and finished it. But this was something beyond me. I had underestimated how extensive the learning material was when enrolled in it. Tips: Plan more time for preparation.
 
-Having done the "program minimum" I switched gears and looked at my gaps in AWS.
+# Having done the "program minimum" I switched gears and looked at my gaps in AWS.
 
 *   [August - pass AWS Certified Data Engineer – Associate](https://www.linkedin.com/posts/andriynikitin_aws-certified-data-engineer-associate-was-activity-7228407612164182016-98XW?utm_source=share&utm_medium=member_desktop&trk=article-ssr-frontend-pulse_little-text-block)
 
@@ -57,7 +64,7 @@ There are no limits for improvements—the limit in our brain.
 It is high time for gratitude.
 ------------------------------
 
-Big thanks:
+# Big thanks:
 
 [Nick G.](https://www.linkedin.com/in/nick-gicinto?trk=article-ssr-frontend-pulse_little-mention) , [Serhii Khariuk](https://ua.linkedin.com/in/ximerus?trk=article-ssr-frontend-pulse_little-mention) for knowledge sharing.
 
